@@ -5,11 +5,11 @@ require "websmsby/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "websmsby-gem-mod"
+  s.name        = "websmsby"
   s.version     = Websmsby::VERSION
   s.authors     = ["qw4n7y"]
   s.email       = ["qw4n7y@gmail.com"]
-  s.homepage    = "https://github.com/mkov/websmsby-gem-mod"
+  s.homepage    = "https://github.com/mkov/websmsby-gem"
   s.summary     = "Websms.by API"
   s.description = "Websms.by API"
 
